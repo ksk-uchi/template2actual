@@ -1,0 +1,4 @@
+This is temp file.
+{# Here is comment. See syntax: jinja2 #}
+first: {{ first }}
+second: {{ second }}

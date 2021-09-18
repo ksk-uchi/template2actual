@@ -1,0 +1,5 @@
+template_path: ./temp.txt
+dist_file_path: ./dist.txt
+variables:
+  first: 123
+  second: 456
